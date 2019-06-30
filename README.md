@@ -10,6 +10,8 @@ Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/timtrice/hurr
 
 # Hurricane Harvey Storm Reports (0.0.1)
 
+[![Join the chat at https://gitter.im/hurricane_harvey_prelims/community](https://badges.gitter.im/hurricane_harvey_prelims/community.svg)](https://gitter.im/hurricane_harvey_prelims/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## A R project collecting Hurricane Harvey preliminary reports, extracting observations and saving to tidy data formats.
 
 ### Prerequisites
